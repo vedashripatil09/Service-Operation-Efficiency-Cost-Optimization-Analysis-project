@@ -104,11 +104,11 @@ Developed interactive analytical dashboards
 Improved visibility into service operation inefficiencies
 
 # Screenshots
-Streamlit Dashboard
+# Streamlit Dashboard
 <img width="1919" height="723" alt="Screenshot 2026-04-25 205229" src="https://github.com/user-attachments/assets/76ea6e66-054c-4f17-8778-7d9a500c5fda" />
 <img width="1919" height="870" alt="Screenshot 2026-04-25 211325" src="https://github.com/user-attachments/assets/21d54801-4b0f-4c28-a3d1-8f72af0133cb" />
 
-Power BI Dashboard
+# Power BI Dashboard
 <img width="947" height="527" alt="Screenshot 2026-05-09 003019" src="https://github.com/user-attachments/assets/51551579-43d3-41a6-be37-5c4be00218a3" />
 <img width="890" height="487" alt="Screenshot 2026-05-09 003055" src="https://github.com/user-attachments/assets/0d3d6163-6da3-4869-8165-7a425b7520d3" />
 
